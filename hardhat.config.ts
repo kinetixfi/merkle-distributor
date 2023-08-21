@@ -1,7 +1,3 @@
-/**
- * @type import('hardhat/config').HardhatUserConfig
- */
-require('dotenv').config()
 import '@nomiclabs/hardhat-ethers'
 import '@nomiclabs/hardhat-waffle'
 
