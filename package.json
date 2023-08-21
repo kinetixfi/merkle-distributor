@@ -1,6 +1,6 @@
 {
   "name": "@kinetix/merkle-distributor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "📦 A smart contract that distributes a balance of tokens according to a merkle root",
   "keywords": [
     "kinetix",
